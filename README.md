@@ -90,3 +90,12 @@
 
 
 
+### *대부분의 과제를 만점을 받았으며 1학기 자료구조와 응용수업 모두에서 좋은 성적을 거두었습니다.* 
+
+
+
+<img src="https://user-images.githubusercontent.com/62167266/98139693-d133d800-1f07-11eb-9b59-8bed53972978.png" width="80%">
+<img src="https://user-images.githubusercontent.com/62167266/98139465-97fb6800-1f07-11eb-997c-c109f50df6c8.png" width="80%">
+
+
+
