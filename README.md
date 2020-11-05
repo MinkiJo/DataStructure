@@ -56,37 +56,43 @@
 ### [DS11](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS11) 연결리스트 : 다항식
 - 1.c :  chain을 이용한 다항식 덧셈 프로그램
 - 2.c : 헤더노드를 가진 단일 환형연결리스트 (singly linked circular list)를 이용한 다항식 더하기 프로그램
-### [DS12](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/D12)
-- 1.c : 
-- 1.c :
-### [DS13](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS13)
-- 1.c :
-- 1.c :
-### [DS14](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS14)
-- 1.c :
-- 1.c :
-### [DS15](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS15)
-- 1.c :
-- 1.c :
-### [DS16](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS16)
-- 1.c :
-- 1.c :
-### [DS17](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS17)
-- 1.c :
-- 1.c :
-### [DS18](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS18)
-- 1.c :
-- 1.c :
-[DS19](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS19)
+### [DS12](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/D12) 이진트리 생성 및 순회
+- 1.c : 이진트리 생성 및 순회
+- 2.c : 큐를 이용한 이진트리 생성
+### [DS13](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS13) 이진트리 생성 및 순회(2)
+- 1.c : Postfix 로 표현된 수식으로부터의 트리 생성
+- 2.c : Postfix 로 표현된 수식으로부터의 트리 생성 및 lever-order 순회
+### [DS14](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS14) 명제식 이진트리
+- 1.c : 괄호를 포함한 중위표현식의 후위표기식으로의 변환
+- 2.c : postfix 로 표현된 수식의 inorder traversal
+- 3.c : postfix 로 표현된 수식으로부터 트리구성후 가능한 조합의 검사(순열 알고리즘)
+### [DS15](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS15) 트리: 힙, 이진탐색트리
+- 1.c : Max Heap 구현
+- 2.c : 이진탐색트리 생성
 
-[DS20](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS20)
+### [DS16](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS16) Winner Tree
+- 1.c : K개의 런(달리기 기록)에 대한 승자트리를 사용한 합병정렬
 
-[DS21](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS21)
-
-[DS22](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS22)
-
-[DS23](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS23)
-
+### [DS17](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS17) Adjacency List, Adjacency Multilists
+- 1.c : 파일입력을 통한 무방향 그래프나 방향 그래프를 인접리스트로 구현
+- 2.c : 무방향 그래프를 multilist로 구현
+### [DS18](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS18) Graph: DFS, BFS, Connected Component
+- 1.c : 인접리스트로 구현된 그래프의 깊이우선탐색
+- 2.c : 인접리스트로 구현된 그래프의 너비우선탐색
+### [DS19](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS19) Sorting
+- 2.c : insertion sort
+- 4.c : quick sort
+### [DS20](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS20) Sorting(2)
+- 1.c : iterative merge sort
+- 2.c : recursive merge sort
+### [DS21](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS21) Sorting(3)
+- 1.c : heap sort
+- 2.c : radix sort
+### [DS22](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS22) Hashing : Linear Probing
+- 1.c : Linear probing을 이용한 hash table 구현
+### [DS23](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS23) Hashing : Random Probing, Chaining
+- 1.c : Random probing을 이용한 hash table 구현
+- 2.c : Chaining을 이용한 hash table 구현
 
 
 
