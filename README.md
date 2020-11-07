@@ -55,7 +55,7 @@
 ### [DS11](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS11) 연결리스트 : 다항식
 - 1.c :  chain을 이용한 다항식 덧셈 프로그램
 - 2.c : 헤더노드를 가진 단일 환형연결리스트 (singly linked circular list)를 이용한 다항식 더하기 프로그램
-### [DS12](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/D12) 이진트리 생성 및 순회
+### [DS12](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS12) 이진트리 생성 및 순회
 - 1.c : 이진트리 생성 및 순회
 - 2.c : 큐를 이용한 이진트리 생성
 ### [DS13](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS13) 이진트리 생성 및 순회(2)
