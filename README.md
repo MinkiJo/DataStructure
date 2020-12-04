@@ -51,7 +51,7 @@
 - 2.c : 중위표기법의 후위표기법 변환(infix to postfix transition)
 ### [DS10](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS10) 연결리스트
 - 1.c : Linked list 만들기
-- 2.c : Linked list를 이용한 staack
+- 2.c : Linked list를 이용한 stack
 ### [DS11](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS11) 연결리스트 : 다항식
 - 1.c :  chain을 이용한 다항식 덧셈 프로그램
 - 2.c : 헤더노드를 가진 단일 환형연결리스트 (singly linked circular list)를 이용한 다항식 더하기 프로그램
